@@ -2,3 +2,7 @@
 
 # branch : develop_1 
 print("これは新しいブランチのテストです。")
+
+あいうえおかきくけこ
+てすとてすとてすと
+GitHub上から main ブランチの mytest.txt 変えたぞ
